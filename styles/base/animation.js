@@ -1,6 +1,4 @@
-/**
- * Created by Ben on 3/30/16.
- */
+$
 
 $('#add-todo').click(function() {
     TweenMax.to(".add-todo-button",.5, {x: -345, ease:Power1.easeInOut});
